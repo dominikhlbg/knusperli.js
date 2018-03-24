@@ -1,0 +1,3 @@
+[submodule "vendor/knusperli"]
+	path = vendor/knusperli
+	url = https://github.com/google/knusperli
